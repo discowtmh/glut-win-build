@@ -1,0 +1,1 @@
+# glut mingw32
